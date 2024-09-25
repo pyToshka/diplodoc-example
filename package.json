@@ -37,13 +37,13 @@
   "dependencies": {
     "@doc-tools/docs": "^3.23.0",
     "chokidar": "^3.5.3",
-    "express": "^4.18.2",
+    "express": "^4.21.0",
     "glob": "^10.3.4",
     "lodash": "^4.17.21",
     "open": "^8.4.2",
     "parse5": "^7.1.2",
     "parse5-utils": "^2.0.0",
-    "serve-static": "^1.15.0"
+    "serve-static": "^1.16.2"
   },
   "devDependencies": {}
 }
